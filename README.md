@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankeshsingh00&label=Profile%20views&color=0e75b6&style=flat" alt="ankeshsingh00" /> </p>
 
-- 🔭 I’m currently working on **Text Summarizer**
+- 🔭 I’m currently working on **Filter Design**
 
 - 🌱 I’m currently learning **VERILOG, VHDL, Python , TCL, UVM**
 
