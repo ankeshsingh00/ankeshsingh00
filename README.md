@@ -34,10 +34,10 @@
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [AHB2APB Bridge](https://github.com/ankeshsingh00/VLSI) | Protocol bridge with 8-state FSM APB controller | Verilog, ModelSim |
-| [ARM-like CPU](https://github.com/ankeshsingh00/32bitARM_like_CPU_design) | 32-bit CPU design from scratch | Verilog |
-| [RTL to GDSII Flow](https://github.com/ankeshsingh00/vsd-hdp) | Full ASIC flow using OpenLane + Sky130 PDK | Yosys, OpenLane |
-| [TCL Workshop](https://github.com/ankeshsingh00/VSD_TCL_PROGRAMMING_WORKSHOP) | TCL scripting for EDA automation | TCL |
+| [AHB2APB Bridge](###) | Protocol bridge with 8-state FSM APB controller | Verilog, ModelSim |
+| [ARM-like CPU](####) | 32-bit CPU design from scratch | Verilog |
+| [RTL to GDSII Flow](####) | Full ASIC flow using OpenLane + Sky130 PDK | Yosys, OpenLane |
+| [TCL Workshop](###) | TCL scripting for EDA automation | TCL |
 
 ---
 
