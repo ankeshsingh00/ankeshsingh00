@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANKESH SINGH</h1>
-<h3 align="center">A passionate frontend/Backend developer from India (VLSI)</h3>
+<h3 align="center">"RTL Design Engineer | FPGA | Verilog | M.Tech SPDD @ DTU
+Thesis: FPGA-based Adaptive Filter Implementation (Kintex-7)
+Interests: Digital Design, SoC, Low Power VLSI"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankeshsingh00&label=Profile%20views&color=0e75b6&style=flat" alt="ankeshsingh00" /> </p>
 
